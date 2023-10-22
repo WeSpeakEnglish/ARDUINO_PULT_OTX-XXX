@@ -3,11 +3,11 @@ Make easier to use 5-button keyfob in easy way\
 99 channel selection, use standard 12key matrix keyboard and SSH1106 128x64 OLED display\
 ##Connection - buttons connectings\
 buttons connecting to GND via transisters, following outputs may be connected to gates on n-ch mosfets or via resistors to n-p-n transistors\
-Digital output 2 to  	"0" button (SW4)\
-Digital output 3 to 	"9" button (SW1)\
-Digital output 4 to  	"6" button (SW2)\
-Digital output 5 to  	"3" button (SW3)\
-Digital output 13 to  PLAY-STOP button (SW5)\
+Digital output 2 to  	"0" button (S4)\
+Digital output 3 to 	"9" button (S1)\
+Digital output 4 to  	"6" button (S2)\
+Digital output 5 to  	"3" button (S3)\
+Digital output 13 to  "PLAY-STOP" button (S5)
 
   pinMode(10, OUTPUT);  //KBD scan 3 COLS\
   pinMode(11, OUTPUT);\
