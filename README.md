@@ -11,12 +11,12 @@ Digital output 13 to  PLAY-STOP button (SW5)\
 
   pinMode(10, OUTPUT);  //KBD scan 3 COLS\
   pinMode(11, OUTPUT);\
-  pinMode(12, OUTPUT);\
+  pinMode(12, OUTPUT);
 
   pinMode(6, INPUT);  // kbd read 4 ROWS\
   pinMode(7, INPUT);  \
   pinMode(8, INPUT);  \
-  pinMode(9, INPUT);  \
+  pinMode(9, INPUT);  
   
  ![image info](images/OTX-HH-KF5-MS.jpg)
  ![image info](images/box_opened.jpg) 
