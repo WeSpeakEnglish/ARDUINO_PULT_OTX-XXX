@@ -19,4 +19,8 @@ Digital output 13 to  PLAY-STOP button (SW5)
   pinMode(9, INPUT);  //
   
  ![image info](images/OTX-HH-KF5-MS.jpg)
- ![image info](images/box_opened.jpg)
+ ![image info](images/box_opened.jpg) 
+   
+  
+
+ 
