@@ -1,7 +1,7 @@
-##Linx MS Keyfob Transmitter OTX-XXX-HH-KF (OTX-418-HH-KF5-MS etc.) drive over Arduino Nano
+## Linx MS Keyfob Transmitter OTX-XXX-HH-KF (OTX-418-HH-KF5-MS etc.) drive over Arduino Nano
 Make easier to use 5-button keyfob in easy way\
 99 channel selection, use standard 12key matrix keyboard and SSH1106 128x64 OLED display\
-##Connection - buttons connectings\
+## Connection - buttons connectings\
 buttons connecting to GND via transisters, following outputs may be connected to gates on n-ch mosfets or via resistors to n-p-n transistors\
 Digital output 2 to  	"0" button (S4)\
 Digital output 3 to 	"9" button (S1)\
